@@ -9,7 +9,7 @@ Not sure why you would though. ╮(´･ᴗ･` )╭
 
 Running `floattexter-rs "Hello, World"` produces:
 
-```rs
+```rust
 use std::str::from_utf8_unchecked as make_str;
 use std::slice::from_raw_parts as make_slice;
 
